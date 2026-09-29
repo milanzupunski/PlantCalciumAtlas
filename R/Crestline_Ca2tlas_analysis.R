@@ -12,6 +12,9 @@
 ##  Output: every table, statistic and plot is written to the folder set in
 ##          `out_dir` (Block 0). Every object also stays in your workspace.
 ##
+##  Code consolidated and documented with the assistance of Claude (Anthropic);
+##  verified by the authors against all values reported in the manuscript.
+##
 ################################################################################
 ##
 ##  WHAT THIS SCRIPT DOES, IN ORDER

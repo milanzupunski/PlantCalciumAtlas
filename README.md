@@ -30,6 +30,8 @@ Missing packages are installed automatically in Block 0: readxl, dplyr, tidyr, g
 
 All results are written to the folder `Crestline_outputs`.
 
+The script was consolidated and documented with the assistance of Claude (Anthropic) and verified against all values reported in the manuscript.
+
 ## Fiji macros
 
 The Fiji macros that generate kymographs and crestplots from the image stacks: [link to be added].
