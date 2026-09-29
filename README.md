@@ -1,4 +1,4 @@
-# Calcium Atlas (Ca²⁺tlas): analysis code
+# Plant Calcium Atlas (Ca²⁺tlas): analysis code
 
 Code for:
 
